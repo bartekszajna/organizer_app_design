@@ -1,27 +1,46 @@
-# Mobile version of the design
+# Figma app design
 
-| Login View                                        | Main View                                       | Signup View                                           |
-| ------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
-| ![Login View](design/mobile_views/login_view.jpg) | ![Main View](design/mobile_views/main_view.jpg) | ![Sign Up View](design/mobile_views/sign_up_view.jpg) |
+Mobile and desktop layouts for my [Organizzzer App](https://github.com/bartekszajna/organizer_app) created with the use of [Figma](https://figma.com), free design&prototyping tool. Both versions exclusively built by me.
 
-| Tasks List View                                            | Profile Closed Menu                                                     | Profile Open Menu                                                    |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Task List View](design/mobile_views/tasks_list_view.jpg) | ![Profile Closed Menu](design/mobile_views/profile_close_menu_view.jpg) | ![Profile Open Menu](design/mobile_views/profile_open_menu_view.jpg) |
+Along the process I was taking advantage of [Color Wheel from Adobe](https://color.adobe.com/create/color-wheel) to choose colors and select reasonably consistent palette (included as a separate frame/page in figma file).
 
-| Add Task View                                               | Account View                                          |
-| ----------------------------------------------------------- | ----------------------------------------------------- |
-| ![Add Task View](design/mobile_views/add_new_task_view.jpg) | ![Account View](design/mobile_views/account_view.jpg) |
+Images come from [Unsplash](https://unsplash.com) (Credits down below).
 
-# Desktop version of the design
+## Mobile version
 
-| Login View                                         | Main View                                        | Signup View                                            |
-| -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ |
-| ![Login View](design/desktop_views/login_view.jpg) | ![Main View](design/desktop_views/main_view.jpg) | ![Sign Up View](design/desktop_views/sign_up_view.jpg) |
+<p>
+  <img src="design/mobile_views/login_view.jpg" width="32%" />
+  <img src="design/mobile_views/main_view.jpg" width="32%" />
+  <img src="design/mobile_views/sign_up_view.jpg" width="32%" />
+</p>
+<p>
+  <img src="design/mobile_views/tasks_list_view.jpg" width="32%" />
+  <img src="design/mobile_views/profile_close_menu_view.jpg" width="32%" />
+  <img src="design/mobile_views/profile_open_menu_view.jpg" width="32%" />
+</p>
+<p>
+  <img src="design/mobile_views/add_new_task_view.jpg" width="32%" />
+  <img src="design/mobile_views/account_view.jpg" width="32%" />
+</p>
 
-| Tasks List View                                             | Profile Closed Menu                                           | Profile Open Menu                                           |
-| ----------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
-| ![Task List View](design/desktop_views/tasks_list_view.jpg) | ![Profile Closed Menu](design/desktop_views/profile_view.jpg) | ![Profile Open Menu](design/desktop_views/account_view.jpg) |
+## Desktop version
 
-| Add Task View                                                |
-| ------------------------------------------------------------ |
-| ![Add Task View](design/desktop_views/add_new_task_view.jpg) |
+<p>
+  <img src="design/desktop_views/login_view.jpg" width="32%" />
+  <img src="design/desktop_views/main_view.jpg" width="32%" />
+  <img src="design/desktop_views/sign_up_view.jpg" width="32%" />
+</p>
+<p>
+  <img src="design/desktop_views/tasks_list_view.jpg" width="32%" />
+  <img src="design/desktop_views/profile_view.jpg" width="32%" />
+  <img src="design/desktop_views/account_view.jpg" width="32%" />
+</p>
+<p>
+  <img src="design/desktop_views/add_new_task_view.jpg" width="32%" />
+</p>
+
+## Credits:
+
+<span>Photo by <a href="https://unsplash.com/@vadimpng?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Vadim Fomenok</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+<span>Photo by <a href="https://unsplash.com/@alexisrbrown?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alexis Brown</a> on <a href="https://unsplash.com/s/photos/studying-people?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
