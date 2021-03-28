@@ -21,6 +21,7 @@ Images come from [Unsplash](https://unsplash.com) (Credits down below).
 <p>
   <img src="design/mobile_views/add_new_task_view.jpg" width="32%" />
   <img src="design/mobile_views/account_view.jpg" width="32%" />
+  <img src="design/mobile_views/delete_account_modal.jpg" width="32%" />
 </p>
 
 ## Desktop version
@@ -37,6 +38,7 @@ Images come from [Unsplash](https://unsplash.com) (Credits down below).
 </p>
 <p>
   <img src="design/desktop_views/add_new_task_view.jpg" width="32%" />
+  <img src="design/desktop_views/delete_account_modal.jpg" width="32%" />
 </p>
 
 ## Credits:
